@@ -14,6 +14,7 @@ public class For_Practice {
 
 		
 		For_Practice FP = new For_Practice();
+		FP.m1();
 
 	}
 	
