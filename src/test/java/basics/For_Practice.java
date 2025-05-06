@@ -15,6 +15,8 @@ public class For_Practice {
 		
 		For_Practice FP = new For_Practice();
 		FP.m1();
+		//Pratap create one more instance method and call the method.
+		System.out.println("The next method.....");
 
 	}
 	
